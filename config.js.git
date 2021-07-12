@@ -1,0 +1,4 @@
+module.exports = {
+    MONGODB: 'DataBase Url',
+    SECRET_KEY: 'Secret hash'
+}
